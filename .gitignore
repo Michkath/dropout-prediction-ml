@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore l'environnement virtuel (TROP LOURD et spécifique à ta machine)
+venv/
+
 # C extensions
 *.so
 

@@ -5,7 +5,9 @@ __pycache__/
 
 # Ignore l'environnement virtuel (TROP LOURD et spécifique à ta machine)
 venv/
-
+Data/
+data_test_cleaned.csv
+data_train_cleaned.csv
 # C extensions
 *.so
 

@@ -17,6 +17,7 @@ __pycache__/
 
 # MLflow logs/artifacts
 mlruns/
+mlflow.db
 
 # System files
 .DS_Store
